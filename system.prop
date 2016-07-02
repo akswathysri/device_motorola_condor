@@ -185,3 +185,6 @@ persist.radio.relay_oprt_change=1
 
 # Property to disable hw keys which will enable on-screen virtual keys
 qemu.hw.mainkeys=1
+
+# MultiUsers
+fw.max_users=1
